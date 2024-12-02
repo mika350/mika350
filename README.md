@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 Hi, I'm Mika!
 
-<!--
-**mika350/mika350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const aboutMe = {
+  name: 'Mika',
+  age: 24,
+  skills: ['PHP', 'Symfony', 'Shopware'],
+  currentlyLearning: ['TypeScript', 'Nuxt.js', 'TailwindCSS'],
+  hobbies: ['Web Development', 'Gaming', 'Music'],
+};
 
-Here are some ideas to get you started:
+console.log('Welcome to my GitHub profile!');
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
