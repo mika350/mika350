@@ -6,7 +6,7 @@ const aboutMe = {
   age: 24,
   skills: ['PHP', 'Symfony', 'Shopware'],
   currentlyLearning: ['TypeScript', 'Nuxt.js', 'TailwindCSS'],
-  hobbies: ['Web Development', 'Gaming', 'Music'],
+  tools: ['MacOS', 'GitHub', 'Jetbrains IDEs', 'Copilot'],
 };
 
 console.log('Welcome to my GitHub profile!');
