@@ -3,7 +3,7 @@
 ```typescript
 const aboutMe = {
   name: 'Mika',
-  age: 24,
+  age: 25,
   skills: ['PHP', 'Symfony', 'Shopware'],
   currentlyLearning: ['TypeScript', 'Nuxt.js', 'TailwindCSS'],
   tools: ['MacOS', 'GitHub', 'Jetbrains IDEs', 'Copilot'],
